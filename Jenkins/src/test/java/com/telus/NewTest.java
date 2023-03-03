@@ -20,7 +20,7 @@ public class NewTest {
 
 		// Naming convention of each variables
 
-		String firstNameValue = "Pavan Kumar";
+		String firstNameValue = "Thulasi";
 		String lastNameValue = "Reddy";
 		String streetAddressValue = "Banaganapalli, Kurnool, Andhrapradesh";
 		String aptNoValue = "4-56/2";
